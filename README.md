@@ -123,4 +123,4 @@ public class TestClient {
 
 # 6.基于标准HTTP请求进行调用接口
 请先转至并参照《基于标准HTTP调用规范》
-()
+https://github.com/WeishuData/weishu-client/wiki/%E3%80%8A%E5%9F%BA%E4%BA%8E%E6%A0%87%E5%87%86HTTP%E8%AF%B7%E6%B1%82%E8%B0%83%E7%94%A8%E8%A7%84%E8%8C%83%E3%80%8B
