@@ -53,7 +53,7 @@ String	姓名
 String	身份证号
 String	手机号
 ```
-## 3.3 接口调用示范程序
+## 3.3 通过Jar包调用接口示范程序
 依照下述示范程序，将设置API相应系统级参数和业务级参数，同时需引用相关weishu.Client的jar包，具体由微数提供。（JDK:1.7）
 ```java
 import weishu.WeishuClient;
@@ -120,3 +120,7 @@ public class TestClient {
 
 # 5.weishu.WeishuClient.jar包
 请联系微数金融，由我司提供。
+
+# 6.基于标准HTTP请求进行调用接口
+请先转至并参照《基于标准HTTP调用规范》
+()
