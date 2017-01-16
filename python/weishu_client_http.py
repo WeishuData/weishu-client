@@ -15,10 +15,10 @@ developer_id = 'ea8ea38459539e13015962f8982a0001'
 solt_key = 'U3tfvBK3'
 public_key = 'MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCOEoQbDy6iX7b5u33UyGEkVHegoKBXanjaHqyBkN3O1Ur2S8aGyYC5sHc4G/dSjzvPCFN7X7wSt0ZiUvX84n90gaJUmjbtazzoeI/UcuYTGY0Q4gbc2ZU0phx8l4AnGYur+umX1HEIMNtN70eQgYtAQuwPFbK2T6q3BPZOGRFiuwIDAQAB'
 
-name = u'胡边'
-phone = '18621824656'
-bank_id = '6225768711381796'
-id_num = '421127199007242252'
+name = u'中文姓名'
+phone = '186****4656'
+bank_id = '622576871138****'
+id_num = '421127199007242****'
 
 
 def rsa_encode(clear_text):
